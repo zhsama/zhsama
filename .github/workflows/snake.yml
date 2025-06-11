@@ -1,0 +1,30 @@
+name: 🐍 Generate contribution snake
+
+on:
+  # 每天 0 点 UTC 执行一次；想调频率就改 cron
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) 生成贪吃蛇 SVG / GIF
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 可按需增删输出文件、定制颜色
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # 2) 把生成结果推到 output 分支（或 gh-pages）
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
