@@ -15,6 +15,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNAKE_GH_TOKEN }}   # ← 指向你的 PAT
           # 可按需增删输出文件、定制颜色
           outputs: |
             dist/github-snake.svg
