@@ -12,6 +12,9 @@
 
 ![Visited By](https://count.getloli.com/get/@zhsama?theme=gelbooru)
 
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/zhsama/zhsama/output/github-snake-dark.svg#gh-dark-mode-only)
+
 <!---
 zhsama/zhsama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
