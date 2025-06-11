@@ -1,6 +1,16 @@
+# Hello World
+
 - 👋 Hi, I’m @zhsama
 - 👀 I’m interested in ai/ts.
-- 🌱 I’m currently building agent.
+
+## 📮 How to Reach Me
+
+- Twitter: [@zhcf1ess](https://twitter.com/a602693793)
+- Email: [Follow Up Here](mailto:a602693793@gmail.com)
+
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@zhsama?theme=gelbooru)
 
 <!---
 zhsama/zhsama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
