@@ -10,6 +10,8 @@
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zhsama/zhsama/output/github-snake-dark.svg#gh-dark-mode-only)
 
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zhsama&count_private=true)
+
 ## Magic Number
 
 ![Visited By](https://count.getloli.com/get/@zhsama?theme=gelbooru)
