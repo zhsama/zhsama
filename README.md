@@ -8,11 +8,14 @@
 - Twitter: [@zhcf1ess](https://twitter.com/a602693793)
 - Email: [Follow Up Here](mailto:a602693793@gmail.com)
 
+##
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zhsama/zhsama/output/github-snake-dark.svg#gh-dark-mode-only)
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zhsama&count_private=true)
-
-## Magic Number
+<p align="center">
+<a href="https://github.com/Gothsec">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhsama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhsama&layout=compact&langs_count=8&theme=algolia"/> </a>
+</p>
 
 ![Visited By](https://count.getloli.com/get/@zhsama?theme=gelbooru)
 
