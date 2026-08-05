@@ -5,7 +5,7 @@
 
 ## 📮 How to Reach Me
 
-- Twitter: [@zhcf1ess](https://twitter.com/a602693793)
+- Twitter: [@zhcf1ess](https://twitter.com/zhcf1ess)
 - Email: [Follow Up Here](mailto:a602693793@gmail.com)
 
 ##
